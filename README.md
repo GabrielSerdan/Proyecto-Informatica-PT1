@@ -1,7 +1,10 @@
 # Proyecto-Informatica-PT1
 Carrera: Higiene y Seguridad
+
 Proyecto: Sitio Web de Analisis de Siniestralidad Laboral y Coberturas de ART
+
 Modalidad: Individual 
+
 Nombre y Apellido: Serdán Gabriel
 
 Descripción General
