@@ -9,7 +9,7 @@ Nombre y Apellido: Serdán Gabriel
 
 ✍️Descripción General
 
-Este proyecto Evalúa los indicadores de siniestralidad laboral y sistemas art en Misiones entre Periodo 2021-2025. Analizando las coberturas de las Art, normativas de la Srt, Así como las empresas con Elevada Siniestralidad en sectores tales como Foresto-industria y Yerbatero. Con de archivos y pagina web en donde se detalla a travez de bibliografia, tablas y gráficos la información Requerida.
+Este proyecto Evalúa los indicadores de siniestralidad laboral y sistemas art en Misiones entre Periodo 2021-2025. Analizando las coberturas de las Art, normativas de la Srt, Así como las empresas con Elevada Siniestralidad en sectores tales como Foresto-industria y Yerbatero. Con archivos y pagina web en donde se detalla a travez de bibliografia, tablas y gráficos la información Requerida.
 
 ⚒️Herramientas utilizadas:
   1. Perplexity: Búsqueda e investigación de datos y fuentes oficiales de Siniestralidad, Art y Srt en Argentina, provincia de Misiones.
